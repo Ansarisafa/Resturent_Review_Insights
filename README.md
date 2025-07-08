@@ -9,9 +9,13 @@ This project focuses on analyzing restaurant ratings data to gain insights into 
 
 📂 Restaurant-Ratings-Analysis/
 ├── data/               # Raw and cleaned datasets
+
 ├── notebooks/          # Jupyter notebooks for EDA and visualization
+
 ├── reports/            # Summary reports or PDFs
+
 ├── visuals/            # Graphs, plots, and dashboards
+
 └── README.md           # Project documentation
 
 
