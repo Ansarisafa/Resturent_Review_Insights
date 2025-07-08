@@ -54,16 +54,4 @@ Provide actionable insights for restaurant improvement
 
 
 
----
 
-🚀 How to Run
-
-1. Clone the repository:
-
-git clone https://github.com/yourusername/Restaurant-Ratings-Analysis.git
-
-
-2. Open the notebook:
-
-cd notebooks
-jupyter notebook restaurant_analysis.ipynb
