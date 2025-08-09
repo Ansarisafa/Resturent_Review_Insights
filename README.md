@@ -8,12 +8,10 @@ This project focuses on analyzing restaurant ratings data to gain insights into 
 📁 Project Structure
 
 📂 Restaurant-Ratings-Analysis/
- # Raw and cleaned datasets
- # Jupyter notebooks for EDA and visualization 
- # Summary reports   
-# Graphs, plots, and dashboards
-
- # Project documentation
+  Raw and cleaned datasets
+  Jupyter notebooks for EDA and visualization 
+  Summary reports   
+ Graphs, plots, and dashboards
 
 
 
